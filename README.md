@@ -1,4 +1,4 @@
-# notepad
+#NOTEPAD
 
 This is notepad replica developed using python.
 
